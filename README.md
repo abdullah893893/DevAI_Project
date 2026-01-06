@@ -23,6 +23,7 @@ Amaç, **CIFAR-10** veri seti üzerinde farklı CNN tabanlı modelleri eğitmek 
 
 ## 📁 Proje Klasör Yapısı
 DevAI_Project/
+
 │
 ├── src/
 │ ├── data/ # Veri yükleme işlemleri
@@ -36,6 +37,7 @@ DevAI_Project/
 ├── data/ # CIFAR-10 (GitHub’a eklenmedi)
 ├── requirements.txt
 └── README.md
+
 ## ▶️ Çalıştırma
 Gerekli kütüphaneleri yüklemek için:
 ```bash
